@@ -1,8 +1,9 @@
 ### Olá! Eu sou a Emily
 
-- 🌱 Estudando Dart
+- 🌱 Atualmente aprendendo dart
 - 📫 Contate-me no email: emilyaugusto4@gmail.com
 - 😄 Pronomes: ela/dela
+- 💻 habilidade em desgn digital
 
 
 
