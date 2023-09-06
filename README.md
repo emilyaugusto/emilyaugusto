@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Emily
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Dart
 - 📫 Contate-me no email: emilyaugusto4@gmail.com
 - 😄 Pronomes: ela/dela
 
