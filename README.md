@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Emily
 
-- 🌱 Atualmente aprendendo dart
+- 🌱 Desenvolvedora Front-end
 - 💻 habilidade em UI/UX Designer
 - 📫 Contate-me no email: emilyaugusto4@gmail.com
 
