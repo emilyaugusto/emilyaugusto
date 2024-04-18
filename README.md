@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Emily
 
-- 🌱 Desenvolvedora Front-end
+- 🌱 Desenvolvedora
 - 💻 habilidade em UI/UX Designer
 - 📫 Contate-me no email: emilyaugusto4@gmail.com
 
