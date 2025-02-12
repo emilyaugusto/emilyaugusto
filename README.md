@@ -2,7 +2,7 @@
 
 - 🌱 Desenvolvedora
 - 💻 habilidade em UI/UX Designer
-- 📫 Contate-me no email: emilyaugusto4@gmail.com
+- 📫 Contate-me no email: emilyaugustocontato@gmail.com
 
 
 
