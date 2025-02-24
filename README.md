@@ -5,10 +5,7 @@
 
 <div align="center">💻 Desenvolvedora web | UI/UX Designer | Desenvolvedora mobile  </div>
 
-
-
-<img align="right" alt="coding-gif" width="400" src="https://github.com/emilyaugusto/emilyaugusto/gifdeveloper.gif">
-
+<!--<img align="right" alt="coding-gif" width="400" src="https://github.com/emilyaugusto/emilyaugusto/blob/main/gifdeveloper.gif"> -->
 
 <!-- sobre -->
  <h3 align="left">Sobre mim</h3>
