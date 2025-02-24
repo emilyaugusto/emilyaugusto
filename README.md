@@ -3,9 +3,9 @@
 💻 Desenvolvedora web | Desenvolvedora mobile | UI/UX designer
 
 Sou estudante de **Ciência da Computação** e técnica em **Desenvolvimento de Sistemas**, com foco em unir **criatividade, tecnologia e estratégia** para desenvolver soluções eficientes e inovadoras. 
----
 
-## 🛠Tecnologias e Ferramentas  
+
+## Tecnologias e Ferramentas  
 
 <div style="display: inline_block"><br>
 <img alt="HTML5" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -15,7 +15,6 @@ Sou estudante de **Ciência da Computação** e técnica em **Desenvolvimento de
 <img alt="Figma" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>  
 
----
 
 ## Vamos conectar?  
 
