@@ -1,7 +1,7 @@
 
 <!-- olá -->
-</h1>
-<h1 align="center">Olá! meu nome é Emily</h1>
+</h2>
+<h1 align="center">Olá! meu nome é Emily</h2>
 
 <div align="center">💻 Desenvolvedora web | UI/UX Designer | Desenvolvedora mobile  </div>
 
@@ -73,12 +73,12 @@
 <div align="center">
   <h3>⭐️ Top Repositórios</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://github.com/JoshuaThadi/yeho.net">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=yeho.net&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" /></a>
-    <a href="https://github.com/JoshuaThadi/Whatsapp-Automation">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Whatsapp-Automation&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    <a href="https://github.com/emilyaugusto/appFastList">
+      <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=emilyaugusto&repo=appFastList&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
+  </div>
 </div>
+
 
   
 
