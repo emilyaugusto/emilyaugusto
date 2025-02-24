@@ -33,9 +33,10 @@
 
 <!-- Greeting -->
 </h1>
-<h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
+<h1 align="center">Olá, meu nome é Emily!</h1>
 
-<h4 align="left">🌟I work on Front-end development and web designing when i am Bored while focusing on Data Science and AI/ML. Pursuing my degree in computer science and I currently working on my programming skills, also exploring the IT field to gain immense knowledge.</h4>
+💻 Desenvolvedora web | Desenvolvedora mobile | UI/UX Designer
+
 
 
  <div align="center">
