@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Emily
 
 - 🌱 Desenvolvedora
-- 💻 habilidade em UI/UX Designer
+- 💻 UI/UX Designer
 - 📫 Contate-me no email: emilyaugustocontato@gmail.com
 
 
