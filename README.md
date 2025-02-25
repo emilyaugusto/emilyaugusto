@@ -11,7 +11,7 @@
  <h3 align="left">Sobre mim</h3>
 
 
-  Estudante de Ciência da Computação e técnica em Desenvolvimento de Sistemas, com foco em unir criatividade, tecnologia e estratégia para soluções eficientes. Está estudando desenvolvimento mobile e possui habilidades em UI/UX Design.
+  Estudante de Ciência da Computação e técnica em Desenvolvimento de Sistemas, com foco em unir criatividade, tecnologia e estratégia para soluções eficientes. Além da programação tenho habilidades em UI/UX Design.
 </h4> <div align="left"> 
 
 
