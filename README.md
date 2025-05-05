@@ -1,10 +1,7 @@
-<!--
-<div align="center">
-<a href="https://github.com/emilyaugusto/emilyaugusto/blob/main/lofi.gif">
-  <img src="https://github.com/emilyaugusto/emilyaugusto/blob/main/lofi.gif" alt="Lofi Gif" style="width:auto; height:auto"/>
-</a>
+
+<img src="https://github.com/emilyaugusto/emilyaugusto/me.png" alt="Me" style="width:auto; height:auto"/>
 </div>
--->
+
 
 <!-- olá -->
 </h2>
