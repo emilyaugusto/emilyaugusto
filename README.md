@@ -5,7 +5,7 @@
 
 <div align="center">💻 Desenvolvedora web | UI/UX Designer | Desenvolvedora mobile  </div>
 
-</div></h3>
+</div></br>
 
 
  <img src="https://github.com/emilyaugusto/emilyaugusto/blob/main/me.png" alt="Lofi Gif" style="width:auto; height:auto"/>
