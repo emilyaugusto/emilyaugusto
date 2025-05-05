@@ -1,5 +1,5 @@
 
-<img src="https://github.com/emilyaugusto/emilyaugusto/main/me.png" alt="Me" style="width:auto; height:auto"/>
+ <img src="https://github.com/emilyaugusto/emilyaugusto/blob/main/me.png" alt="Lofi Gif" style="width:auto; height:auto"/>
 </div>
 
 
