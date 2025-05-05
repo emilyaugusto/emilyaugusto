@@ -1,13 +1,15 @@
 
- <img src="https://github.com/emilyaugusto/emilyaugusto/blob/main/me.png" alt="Lofi Gif" style="width:auto; height:auto"/>
-</div>
-
-
 <!-- olá -->
 </h2>
 <h1 align="center">Olá! meu nome é Emily</h2>
 
 <div align="center">💻 Desenvolvedora web | UI/UX Designer | Desenvolvedora mobile  </div>
+
+
+ <img src="https://github.com/emilyaugusto/emilyaugusto/blob/main/me.png" alt="Lofi Gif" style="width:auto; height:auto"/>
+</div>
+
+
 
 <!--<img align="right" alt="coding-gif" width="400" src="https://github.com/emilyaugusto/emilyaugusto/blob/main/gifdeveloper.gif"> -->
 
