@@ -8,7 +8,7 @@
 </div></br>
 
 
- <img src="https://github.com/emilyaugusto/emilyaugusto/blob/main/me.png" alt="Lofi Gif" style="width:auto; height:auto"/>
+ <img src="https://github.com/emilyaugusto/emilyaugusto/blob/main/me2.jpg" alt="Lofi Gif" style="width:auto; height:auto"/>
 </div></h3>
 
 
@@ -47,9 +47,9 @@
 <h3 align="center">⚡ Github Status</h3>
 <br>
 <div align="center">
-<img width="380" src="https://github-readme-stats.vercel.app/api?username=emilyaugusto&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
+<img width="380" src="https://github-readme-stats.vercel.app/api?username=emilyaugusto&count_private=true&show_icons=true&&theme=react&rank_icon=github&border_radius=10"/>
 
-  <img width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyaugusto&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyaugusto&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 <br/><br/>
@@ -72,9 +72,16 @@
 <br/>
 
 
+<!-- top repo and teck stack-->
+<br/>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=emilyaugusto&theme=react&hide_border=false" alt="Streak Stats">
+</div>
 
 
-<!-- top repo -->
+
+
+<!-- top repo 
 <div align="center">
   <h3>⭐️ Top Repositórios</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -83,7 +90,7 @@
     </a>
   </div>
 </div>
-
+-->
 
   
 
