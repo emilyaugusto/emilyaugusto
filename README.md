@@ -62,7 +62,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,arduino,dart,flutter" /><br>
+  <img src="https://skillicons.dev/icons?i=visualstudio,arduino,flutter,cs,dotnet" /><br>
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode" /><br>
   <img src="https://skillicons.dev/icons?i=github,git,notion,figma" /><br>
   <img src="https://skillicons.dev/icons?i=python,javascript,mysql" /><br>
