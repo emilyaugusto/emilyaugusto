@@ -14,8 +14,8 @@
 Desenvolvedora Full Stack e UX/UI, focada em criar soluções acessíveis e automatizadas. Apaixonada por automação de processos e tornar a tecnologia acessível para todos.
 </h4> <div align="left"> 
  
-<a href="mailto:emilyaugustocontato@gmail.com"><img src="https://github.com/emilyaugusto/emilyaugusto/blob/main/BtLinkedin.png" alt="Botão LinkedIn" width=12%/></a>
-<a href="https://www.linkedin.com/in/emilyaugusto" target="_blank"><img src="https://github.com/emilyaugusto/emilyaugusto/blob/main/BtGmail.png" alt="Botão Gmail" width=12%/> </a>
+<a href="https://www.linkedin.com/in/emilyaugusto" target="_blank"><img src="https://github.com/emilyaugusto/emilyaugusto/blob/main/BtLinkedin.png" alt="Botão LinkedIn" width=15%/></a>
+<a href="mailto:emilyaugustocontato@gmail.com"><img src="https://github.com/emilyaugusto/emilyaugusto/blob/main/BtGmail.png" alt="Botão Gmail" width=15%/> </a>
 
 <br/><br/>
 
